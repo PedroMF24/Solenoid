@@ -10,4 +10,10 @@ Este projecto tem como objectivo explorar uma forma simples, clássica e visualm
 O material necessário para construir um protótipo do noisR trata-se de 2 eletroímanes e uma fonte de tensão de até 10V. Agradecemos ao prof. Figueirinhas por ter cedido o material utilizado nos testes do sistema.
 
 
- 
+![Image 1](img/1.jpg)  
+
+![Image 2](img/2.jpg)  
+
+![Image 3](img/3.jpg)  
+
+![Image 4](img/4.jpg)  
